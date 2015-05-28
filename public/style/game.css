@@ -1,0 +1,17 @@
+body {
+	overflow: hidden;
+	background-color: #000;
+}
+
+canvas {
+	display: block;
+	height: 600px;
+	width: 800px;
+	border: 1px solid black;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	margin-top: -300px;
+	margin-left: -400px;
+	background: url('../imgs/bg_black.jpg');
+}
